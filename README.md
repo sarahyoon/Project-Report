@@ -14,7 +14,7 @@
 
 ---
 
-### 2. Software Modeling
+### 2. Software Modeling Course
 #### '바이커를 위한 도로 안내서' Project Report
 #### Content
 1. Introduction
